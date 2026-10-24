@@ -55,11 +55,11 @@ O valor potencial do Verdurão está na **combinação e adaptação para sua op
 
 ## Recomendação de preço
 
-**Propor R$ 490/mês de manutenção técnica**, sem taxa de desenvolvimento, **quando a loja estiver funcionando em produção**. Este valor é uma **estimativa comercial minha**, não uma média estatística de propostas locais: as empresas regionais mais próximas de desenvolvimento sob medida não publicam preço de manutenção equivalente. O valor fica entre o plano de 2 h da AGTI (R$ 300) e o plano de 1 h com hospedagem da DIO (R$ 599), e acima de licenças padronizadas regionais de aproximadamente R$ 100–239/mês.
+**Preço definido para a proposta: R$ 300/mês de manutenção técnica**, sem taxa de desenvolvimento, **quando a loja estiver funcionando em produção**. É uma decisão comercial ajustada ao orçamento esperado para um comércio local de Piúma, não uma média estatística de propostas do sul do ES: as empresas regionais mais próximas de desenvolvimento sob medida não publicam preço de manutenção equivalente. O valor coincide com o plano de entrada de 2 h da AGTI e fica acima das licenças padronizadas regionais de aproximadamente R$ 100–239/mês.
 
-Premissas da proposta de R$ 490:
+Premissas da proposta de R$ 300:
 
-- até **3 horas por mês** para acompanhamento técnico, pequenas correções e ajustes simples;
+- até **2 horas por mês** para acompanhamento técnico, pequenas correções e ajustes simples;
 - monitorar disponibilidade, conferir os backups automáticos do servidor e testar uma restauração periodicamente;
 - suporte em horário comercial, com primeira resposta em até **1 dia útil**; falha que impeça pedidos ou pagamentos recebe prioridade no mesmo dia útil;
 - o **servidor, domínio, gateway de pagamento e eventual API de WhatsApp** ficam em nome do Verdurão e são pagos diretamente aos fornecedores, pelo custo real;
@@ -67,7 +67,7 @@ Premissas da proposta de R$ 490:
 
 Se a hospedagem for paga pelo desenvolvedor, é preciso **somar seu custo real** à mensalidade; não inventar um valor de VPS antes de escolher o servidor. Backup automático no servidor já contratado **não justifica cobrar uma segunda ferramenta de backup** sem necessidade técnica demonstrada. Também não se deve cobrar uma parcela escondida de desenvolvimento: o contrato pode dizer explicitamente que o desenvolvimento inicial custa R$ 0 e que a mensalidade remunera o trabalho recorrente definido acima.
 
-Para um orçamento fechado, faltam o servidor escolhido, volume esperado de pedidos, canal de WhatsApp, forma de tratar peso maior que o estimado, regra de estorno, responsáveis pelo cadastro do catálogo e necessidade de plantão fora do horário comercial. Após **60 a 90 dias de uso real**, revisar as horas consumidas e ajustar o contrato se a demanda superar o pacote de 3 h de forma recorrente.
+Para um orçamento fechado, faltam o servidor escolhido, volume esperado de pedidos, canal de WhatsApp, forma de tratar peso maior que o estimado, regra de estorno, responsáveis pelo cadastro do catálogo e necessidade de plantão fora do horário comercial. Após **60 a 90 dias de uso real**, revisar as horas consumidas e ajustar o contrato se a demanda superar o pacote de 2 h de forma recorrente. Serviços além das 2 h devem ser combinados antes da execução.
 
 ## Limites desta pesquisa
 
